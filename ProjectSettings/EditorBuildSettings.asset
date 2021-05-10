@@ -6,6 +6,21 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/3D/Low Poly FPS Pack - Free (Sample)/Demo_Scenes/Weapon_Demo_Scenes/Handgun_01_Demo/Handgun_01_Demo.unity
+    path: Assets/Dowload_assets/Low Poly FPS Pack - Free (Sample)/Demo_Scenes/Weapon_Demo_Scenes/Handgun_01_Demo/Handgun_01_Demo.unity
     guid: d786ed15d0e419f43b4218a11d3cb272
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: c808e50d3f60aaa4d8ac8b796095a69e
+  - enabled: 1
+    path: Assets/Scenes/FPS_NormalWall.unity
+    guid: 52ee30b6d8d2f7941996c482b03bda43
+  - enabled: 1
+    path: Assets/Scenes/FPS_NormalAim.unity
+    guid: a41b664902d7e7e4f803495a989b5d82
+  - enabled: 1
+    path: Assets/Scenes/FPS_AIM.unity
+    guid: 93337cae56a880c4fa5372f01635789e
+  - enabled: 1
+    path: Assets/Scenes/FPS_Wall.unity
+    guid: c3fa0dc5dd54488409d8d30a060513e5
   m_configObjects: {}
